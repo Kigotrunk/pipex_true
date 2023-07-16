@@ -1,0 +1,18 @@
+total 136
+drwxr-xr-x  17 kortolan  2022_nice    578 May 19 23:01 .
+drwxr-xr-x  18 kortolan  2022_nice    612 May 19 21:00 ..
+-rw-r--r--@  1 kortolan  2022_nice   8196 May 19 21:07 .DS_Store
+drwxr-xr-x  12 kortolan  2022_nice    408 May 19 20:58 .git
+-rw-r--r--   1 kortolan  2022_nice      0 May 19 22:54 22
+-rw-r--r--   1 kortolan  2022_nice      0 Apr 22 15:04 LC_TERMINAL_VERSION=3.4.15
+-rw-r--r--   1 kortolan  2022_nice   1250 May 19 20:52 Makefile
+-rw-r--r--   1 kortolan  2022_nice      0 May  1 11:49 TERM_SESSION_ID=w0t0p0:A2D19B94-50F1-4556-A883-DD31A9D4432F
+-rw-r--r--   1 kortolan  2022_nice      0 May  1 12:00 TERM_SESSION_ID=w0t0p1:4E4B862C-5C4F-4703-A513-64632BBC4367
+-rwxr-xr-x   1 kortolan  2022_nice  19076 May 17 18:00 a.out
+-rw-r--r--   1 kortolan  2022_nice      0 May 19 23:01 file2
+drwxr-xr-x  47 kortolan  2022_nice   1598 May 19 21:06 libft
+-rwxr-xr-x   1 kortolan  2022_nice  13740 May 19 21:29 pipex
+-rw-r--r--   1 kortolan  2022_nice   2746 May 19 22:51 pipex.c
+-rw-r--r--   1 kortolan  2022_nice   1305 May 19 20:47 pipex.h
+-rw-r--r--   1 kortolan  2022_nice   1321 May 19 20:48 pipex2.c
+-rw-r--r--   1 kortolan  2022_nice     25 May 19 23:00 y
